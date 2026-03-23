@@ -3,7 +3,7 @@ package Ex01;
 import java.sql.*;
 
 public class DBContext {
-    private static final String URL = "jdbc:mysql://192.168.1.10:3306/Hospital_DB";
+    private static final String URL = "jdbc:mysql://localhost:3306/Hospital_DB";
     private static final String USER = "root";
     private static final String PASS = "trankhanhan8506";
 
